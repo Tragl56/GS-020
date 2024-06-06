@@ -1,3 +1,5 @@
+##Blue Horizon
+---------------------------------------------------------------------------------------
 Integrantes da equipe: 
  
 Enrico do Nascimento Ferreira Galdino - rm552082 – 2TDSPH 
@@ -6,7 +8,7 @@ Leonardo Matheus Mariano Guedes da Silva - rm99824 – 2TDSPN
 Luiz Felipe dos Santos Tragl - rm99476 – 2TDSPB 
 Pedro Henrique Chersoni Lins - rm99866 - 2TDSPW 
  
- 
+--------------------------------------------------------------------------------------- 
  
 Objetivos Específicos: 
 
@@ -16,18 +18,14 @@ Objetivos Específicos:
 3. Resultados Obtidos   
 4. Conclusões   
 5.Bibliotecas Utilizadas   
+---------------------------------------------------------------------------------------
 
-#Blue Horizon 
-
-
-
-
-##1. Descrição do Problema 
+1. Descrição do Problema 
 
 A conservação da vida marinha é crucial para a manutenção do equilíbrio dos ecossistemas aquáticos. Identificar espécies marinhas em risco de extinção é um passo vital para a implementação de estratégias de conservação eficazes. Este projeto visa desenvolver um modelo de aprendizado de máquina capaz de classificar espécies marinhas como "em extinção" ou "não em extinção" com base em imagens. O objetivo é auxiliar na identificação rápida e precisa dessas espécies para apoiar esforços de conservação. 
 
  
-##2. Metodologia Utilizada 
+2. Metodologia Utilizada 
 
 2.1. Coleta de Dados 
 
@@ -62,7 +60,7 @@ A avaliação do modelo foi realizada utilizando os dados de validação, medind
 
 
 
-##3. Resultados Obtidos 
+3. Resultados Obtidos 
 
 3.1. Treinamento do Modelo 
 
@@ -85,7 +83,7 @@ A função de previsão foi testada em novas imagens, e o modelo foi capaz de cl
  
  
  
-##4. Conclusões 
+4. Conclusões 
 
 O projeto demonstrou a viabilidade de usar redes neurais convolucionais para classificar espécies marinhas em extinção com base em imagens. O uso de técnicas de augmentação de dados, juntamente com uma arquitetura de CNN bem projetada, resultou em um modelo robusto com boa performance em dados de validação. 
 
